@@ -2,6 +2,6 @@ id_film,nom_film,Description,date_sortie,duree,langue_sortie,genre
 1,Divergent,film avec des fractions,2014-03-19,139 minutes,anglaise,roman science-fiction dystopie
 2,Ant Man,homme arraignee,2015-06-29,117 minutes,anglaise,Super-heros
 3,Jurasic world,film avec des dinosaures,2018-06-06,128 minutes,anglaise,action aventures science fiction
-7,Fiston,Dés son plus jeune âge Alex n'a eu qu'une idée en tête séduire Sandra Valenti,2014-03-12,88 minute,française,comédie
-8,The Poursuit of Hapyness,Représentant de commerce, Chris Gardner a du mal à gagner sa vie,2006-05-26,145 minutes,anglaise,drame
-9,Taxi,Daniel est un fou du volant,1998-04-08,89 minutes,française,comédie
+7,Fiston,Dés son plus jeune âge Alex n'a eu qu'une idée en tête séduire Sandra Valenti,2014-03-12,88 minute,française,comédie,Pascal Bourdiaux
+8,The Poursuit of Hapyness,Représentant de commerce, Chris Gardner a du mal à gagner sa vie,2006-05-26,145 minutes,anglaise,drame,Gabriele Muccino
+9,Taxi,Daniel est un fou du volant,1998-04-08,89 minutes,française,comédie,Gérard Pirès
